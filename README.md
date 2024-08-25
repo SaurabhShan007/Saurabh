@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhshan007" alt="saurabhshan007" /></a> </p>
 
-- 🔭 I’m currently working on [EQ Rig](EQRig/h2-storefront)
+- 🔭 I’m currently working on [eqrig.com](EQRig/h2-storefront)
 
 - 🌱 I’m currently learning **NextJs and ReactJs**
 
