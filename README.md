@@ -3,7 +3,7 @@
 <div align = "center"><img src ="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" /> </div>
 
 
-- 🔭 I’m currently working on [eqrig.com]
+- 🔭 I’m currently working on <a href="https://eqrig.com" target="blank">EQ Rig</a>
 
 - 🌱 I’m currently learning **NextJs and ReactJs**
 
