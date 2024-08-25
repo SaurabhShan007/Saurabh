@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Gsap and reactJs**
+- 💬 Ask me about **HTML, CSS, JavaScript, Gsap and ReactJs**
 
 - 📫 How to reach me **saurabh.shanu007@gmail.com**
 
