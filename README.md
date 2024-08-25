@@ -3,7 +3,7 @@
 <div align = "center"><img src ="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" /> </div>
 
 
-- 🔭 I’m currently working on <a href="https://eqrig.com" target="blank">EQ Rig</a>
+- 🔭 I’m currently working on 🔗 <a href="https://eqrig.com" target="blank">EQ Rig</a>
 
 - 🌱 I’m currently learning **NextJs and ReactJs**
 
@@ -14,8 +14,8 @@
 - 📫 How to reach me **saurabh.shanu007@gmail.com**
 
 - 🚀 My Projects:
-- 🔗 <a href="https://vitalpulse.in" target="blank">VitalPulse</a> 
-- 🔗 <a href="https://vibrantit.netlify.app" target="blank">Vibrant IT Solution</a> 
+ 🔗 <a href="https://vitalpulse.in" target="blank">VitalPulse</a> 
+ 🔗 <a href="https://vibrantit.netlify.app" target="blank">Vibrant IT Solution</a> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h3 align="left">Connect with me:</h3>
