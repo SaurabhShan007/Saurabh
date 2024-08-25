@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src=“https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966”/>
+<img src =“https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif” />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhshan007&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhshan007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhshan007" alt="saurabhshan007" /></a> </p>
