@@ -14,7 +14,7 @@
 - 📫 How to reach me **saurabh.shanu007@gmail.com**
 
 - 🚀 My Projects:
-- <a href="https://vitalpulse.in" target="blank">VitalPulse</a> 
+-<img src ="https://res.cloudinary.com/djkl6gs9w/image/upload/v1724594425/favicon_abrm0z.ico" /> <a href="https://vitalpulse.in" target="blank">VitalPulse</a> 
 - <a href="https://vibrantit.netlify.app" target="blank">Vibrant IT Solution</a> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
